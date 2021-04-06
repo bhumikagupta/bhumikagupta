@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhumikagupta
-- 👀 I’m interested in all things tech! But I work mostly in Data Engineering/Science, ML, AI, NLP space right now. 
+- 👀 I’m interested in all things tech! But I work mostly in the Data Engineering/Science, ML, AI, NLP space right now. 
 - 📫 How to reach me bhumikagupta0206@gmail.com
 
 [comment]: <> ( 🌱 I’m currently learning ...)
